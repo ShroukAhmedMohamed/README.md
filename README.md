@@ -10,8 +10,7 @@
   </a>
   <a href="mailto:shroukahmad33@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
-       width="37"
-       height="25"
+      width="47" height="35"
        alt="Gmail logo" />
 </a>
   <a href="https://discord.com/users/1072471789730537546" target="_blank">
