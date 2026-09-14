@@ -1,5 +1,5 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG94M2NtZnNiemU3MjEzam9reWtmenlzOTU3bHVsY2kwd2tkNmU2cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/scZPhLqaVOM1qG4lT9/giphy.gif"  />
+  <img data-importer="image" height="257" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG94M2NtZnNiemU3MjEzam9reWtmenlzOTU3bHVsY2kwd2tkNmU2cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/scZPhLqaVOM1qG4lT9/giphy.gif"  />
 </div>
 
 ###
@@ -11,7 +11,9 @@
   <a href="shroukahmad33@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
   </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
+  <a href="https://discord.com/users/1072471789730537546" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
+  </a>
 </div>
 
 ###
