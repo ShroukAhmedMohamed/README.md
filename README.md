@@ -1,21 +1,21 @@
 <div data-importer="image" align="center">
-  <img data-importer="image" height="257" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG94M2NtZnNiemU3MjEzam9reWtmenlzOTU3bHVsY2kwd2tkNmU2cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/scZPhLqaVOM1qG4lT9/giphy.gif"  />
+  <img data-importer="image" height="330" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG94M2NtZnNiemU3MjEzam9reWtmenlzOTU3bHVsY2kwd2tkNmU2cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/scZPhLqaVOM1qG4lT9/giphy.gif"  />
 </div>
 
 ###
 
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/shrouk-ahmed-63ba02287/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
- <a href="mailto:shroukahmad33@gmail.com">
+  <a href="mailto:shroukahmad33@gmail.com">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"
        width="37"
        height="25"
        alt="Gmail logo" />
 </a>
   <a href="https://discord.com/users/1072471789730537546" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
   </a>
 </div>
 
@@ -25,7 +25,7 @@
 
 ###
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+<h2 data-importer="text" align="left">👩‍💻  About Me</h2>
 
 ###
 
@@ -87,30 +87,12 @@
 
 ###
 
-<h3 data-importer="text" align="left">🔥   My Stats :</h3>
-
-###
-
-<div data-importer="activities" align="center" style="width: 100%">
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/0" alt="Medium post 1"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/1" alt="Medium post 2"  />
-  </a>
-  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2">
-    <img style="width: 100%" src="https://github-readme-medium-recent-article.vercel.app/medium/@undefined/2" alt="Medium post 3"  />
-  </a>
-</div>
-
-###
-
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
 ###
 
-<p data-importer="text" align="left">End of script ☕ <br>Thanks for the visit. <br>Always open to new API requests for opportunities and collaborating on the next big feature. <br>Drop a message!🤭</p>
+<h4 data-importer="text" align="left">End of script ☕ <br>Thanks for the visit. <br>Always open to new API requests for opportunities and collaborating on the next big feature. <br>Drop a message!🤭</h4>
 
 ###
